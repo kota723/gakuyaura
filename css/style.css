@@ -895,3 +895,7 @@ img.card-img {
         -ms-grid-columns: 1fr;
     }
 }
+/* 記事本文の改行を有効にする */
+.post-content {
+    white-space: pre-wrap;
+}
